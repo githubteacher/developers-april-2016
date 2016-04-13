@@ -3,3 +3,6 @@
 
 ## places to stay:
 Goa
+
+
+## Places to visit: Ooty, Kanyakumari
