@@ -1,13 +1,14 @@
-## Edinburgh
+## hometown
 
-### Places to go
- * The Dungeon
+### places to eat
+- noodles
+- soup
 
-### Things to see
- * The Castle
 
-### People to conquer
- * The Scots
+### things to do
+- frisbee
+- foot golf
 
-### Food to eat
- * Haggis, neeps and tatties
+
+### Best Places to stay
+- Trump towers
