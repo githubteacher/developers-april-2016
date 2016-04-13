@@ -8,5 +8,5 @@ Watch a movie on Ro's torv - kinorostorv.dk
 Join the Roskilde Festival in June for some great music
 
 ### Places to Stay
-Several OK htoels around the city
+Several OK hotels around the city
 
