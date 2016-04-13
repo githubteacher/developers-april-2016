@@ -4,5 +4,4 @@
 
 ### Things to do
 
-
 ### Places to stay
