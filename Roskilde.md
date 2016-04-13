@@ -1,7 +1,7 @@
 ## Roskilde, DK 
 
 ### Places to eat
-Guesto Guesto
+Gusto Giusto
 
 ### Things to do
 Watch a movie on Ro's torv - kinorostorv.dk
