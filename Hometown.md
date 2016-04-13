@@ -10,4 +10,4 @@
  * The Scots
 
 ### Food to eat
- * Haggis, nips and tatties
+ * Haggis, neeps and tatties
