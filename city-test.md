@@ -3,3 +3,5 @@
 ### Best place to eat - Rest1
 
 ### Best place to visit - Place1
+
+### Best places to stay
