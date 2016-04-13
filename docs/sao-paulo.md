@@ -10,3 +10,5 @@
 * Fogo de Chão
 
 ## Places to Stay
+
+* Mercure Hotel
