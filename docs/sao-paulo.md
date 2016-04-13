@@ -8,3 +8,5 @@
 
 * Consulado da Bahia
 * Fogo de Chão
+
+## Places to Stay
