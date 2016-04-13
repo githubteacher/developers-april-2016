@@ -6,3 +6,5 @@ Just a Taste
 Taste of Thai
 
 ### Things to do
+
+### Best places to stay
