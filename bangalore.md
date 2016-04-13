@@ -8,3 +8,5 @@ Truffles
 
 ### Things to do
 Visit Wonderla Amusement Park
+
+### Places to stay
