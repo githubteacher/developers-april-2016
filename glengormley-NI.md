@@ -5,3 +5,5 @@
 
 ### Things to Do
   Moviehouse Cinema
+  
+### Best places to stay
