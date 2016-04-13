@@ -5,3 +5,5 @@ fritzes
 
 ### Things to do
 fencing
+
+### Best places to stay
