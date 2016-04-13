@@ -1,7 +1,10 @@
-## London, England
+## London
 
 ### Places to eat
-Where the cool cats hang out
+Deli Mamma
 
 ### Things to do
-Visit cat cafe
+Boat ride down the Thames
+
+### Best places to stay
+The Ritz
