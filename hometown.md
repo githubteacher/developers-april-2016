@@ -1,11 +1,14 @@
 ## hometown
 
 ### places to eat
-noodles
+- noodles
+- soup
 
 
 ### things to do
-frisbee
+- frisbee
+- foot golf
 
 
 ### Best Places to stay
+- Trump towers
